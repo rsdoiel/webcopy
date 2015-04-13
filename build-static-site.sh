@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# From the webcopy.sh version of housingprototypes.org rebuild a cleaned up
+# From the webcopy.sh version of TARGET_URL rebuild a cleaned up
 # version of the website in a static directory.
 #
 
